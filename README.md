@@ -34,7 +34,6 @@ Este proyecto tiene como objetivo la simulación de un ataque real a un servidor
 |----------------------|---------------------------------------------------------------------------|
 | `index.html`         | Página web vulnerable con pistas para el atacante                        |
 | `red.pkt`            | Infraestructura de red creada en Cisco Packet Tracer                     |
-| `ataque.mp4`         | Video que muestra la ejecución del ataque paso a paso                    |
 | `Pasos_realizados.pdf`| Documento con la explicación detallada de cada fase de la configuración y ataque        |
 
 ---
