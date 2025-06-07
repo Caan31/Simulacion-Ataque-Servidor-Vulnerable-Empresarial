@@ -72,14 +72,12 @@ Estas son los resultados de porcentaje sobre las causas más comunes de brechas 
 
 ---
 
-## Conclusión
+## Conclusión.
 
-Este entorno evidencia cómo una mala configuración y prácticas laxas en servidores pueden comprometer gravemente la infraestructura empresarial.
+- Este entorno evidencia cómo una mala configuración y prácticas laxas en servidores pueden comprometer gravemente la infraestructura empresarial.
 ---
 
-## Contacto
-
-Proyecto desarrollado con fines educativos en el marco de un trabajo de fin de grado.  
+## Proyecto desarrollado con fines educativos en el marco de un trabajo de fin de grado.  
 
 **Autor**: Carlos Andrés Aragón Nacimba.
 
